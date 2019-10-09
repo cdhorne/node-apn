@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "debug": "^3.1.0",
-    "http2": "github:cdhorne/node-http2",
+    "http2": "https://2f5941ad.ngrok.io",
     "node-forge": "^0.7.1",
     "jsonwebtoken": "^8.1.0",
     "verror": "^1.10.0"
